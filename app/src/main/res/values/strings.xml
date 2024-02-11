@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">antiAiAuth</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="write_happy_or_sad">Write \'happy\' or \'sad\'</string>
+    <string name="test2img">test2Img</string>
+    <string name="welcome_human">Welcome human</string>
+    <string name="your_answer">Your answer</string>
+    <string name="puzzle_format">%1$d + %2$d = ?</string>
+</resources>
